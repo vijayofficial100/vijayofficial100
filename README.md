@@ -48,6 +48,14 @@ AI Literacy & Emerging Technologies.
 * **Higher Secondary (12th)** | Computer Science Stream
   *Early foundation in programming and computer fundamentals.*
 
+  ## 🤖 AI & Machine Learning (Ongoing Internship)
+- **Internship:** AI Developer at **Pantech Prolabs India Pvt Ltd**.
+- **Core Focus:** Generative AI Masterclass, Deep Learning, and Machine Learning (Tamil).
+- **Tools:** Python Programming for AI, Data Analytics, and Neural Networks.
+  ##  Current Internship
+- **AI Developer Intern** at **Pantech.ai (Pantech Prolabs)** [Feb 2026 - May 2026]
+- Focusing on **Generative AI Masterclass** and real-time AI implementation.
+
   ## 🎨 Creative & Media Expertise
 - **Diploma in Media Arts** from **Sathyam Academy** (2017 - 2019).
 - **Video Editing:** Expert in **Adobe Premiere Pro**, After Effects, and Final Cut Pro.
