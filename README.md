@@ -40,7 +40,7 @@ AI Literacy & Emerging Technologies.
 * **MCA (Master of Computer Applications)** | Starting Soon (2026)
   *Focusing on Advanced Computing, Backend Architecture, and Software Engineering.*
 
-  * **Full Stack Development (MERN Stack)** | NoviTech R&D Pvt. Ltd. (Completed: Feb 2026)
+* **Full Stack Development (MERN Stack)** | NoviTech R&D Pvt. Ltd. (Completed: Feb 2026)
 
 * **B.Sc., LL.B** | Vels University, Chennai (2023)
   *Specialized in Analytical Thinking and Logical Reasoning—skills directly applicable to complex Debugging and System Design.*
