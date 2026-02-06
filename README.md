@@ -51,13 +51,11 @@ AI Literacy & Emerging Technologies.
 *  **Pantech Prolabs India Pvt Ltd** | Pantech Prolabs India Pvt. Ltd.
   *AI/ML Course
 
-  ## 🤖 AI & Machine Learning (Ongoing Internship)
-- **Internship:** AI Developer at **Pantech Prolabs India Pvt Ltd**.
-- **Core Focus:** Generative AI Masterclass, Deep Learning, and Machine Learning (Tamil).
-- **Tools:** Python Programming for AI, Data Analytics, and Neural Networks.
-  ##  Current Internship
-- **AI Developer Intern** at **Pantech.ai (Pantech Prolabs)** [Feb 2026 - May 2026]
-- Focusing on **Generative AI Masterclass** and real-time AI implementation.
+## 🤖 Current Internship: AI & Machine Learning
+- **Role:** AI Developer Intern at **Pantech.ai (Pantech Prolabs)** [Feb 2026 - May 2026]
+- **Core Focus:** Deep Learning, Neural Networks, and Generative AI (Tamil Masterclass).
+- **Practical Learning:** Hands-on experience with Python for AI, Data Analytics, and Prompt Engineering.
+- **Objective:** Leveraging AI models to build smarter, scalable software solutions.
 
   ## 🎨 Creative & Media Expertise
 - **Diploma in Media Arts** from **Sathyam Academy** (2017 - 2019).
