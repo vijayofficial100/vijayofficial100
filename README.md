@@ -40,13 +40,20 @@ AI Literacy & Emerging Technologies.
 * **MCA (Master of Computer Applications)** | Starting Soon (2026)
   *Focusing on Advanced Computing, Backend Architecture, and Software Engineering.*
 
+  * **Full Stack Development (MERN Stack)** | NoviTech R&D Pvt. Ltd. (Completed: Feb 2026)
+
 * **B.Sc., LL.B** | Vels University, Chennai (2023)
   *Specialized in Analytical Thinking and Logical Reasoning—skills directly applicable to complex Debugging and System Design.*
 
-* **Full Stack Development (MERN Stack)** | NoviTech R&D Pvt. Ltd. (Completed: Feb 2026)
-
 * **Higher Secondary (12th)** | Computer Science Stream
   *Early foundation in programming and computer fundamentals.*
+
+  ## 🎨 Creative & Media Expertise
+- **Diploma in Media Arts** from **Sathyam Academy** (2017 - 2019).
+- **Video Editing:** Expert in **Adobe Premiere Pro**, After Effects, and Final Cut Pro.
+- **Graphic Design:** Proficient in **Adobe Photoshop** for creating high-quality digital assets.
+- **Social Media Strategy:** Experienced in platform analytics and content growth across YouTube, FB, Instagram, and X.
+- **Tech Integration:** Leveraging my media skills to create engaging technical content and intuitive UI/UX designs.
   ---
 
 ###  Connect with me:
