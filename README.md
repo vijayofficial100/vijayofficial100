@@ -57,13 +57,12 @@ AI Literacy & Emerging Technologies.
 - **Practical Learning:** Hands-on experience with Python for AI, Data Analytics, and Prompt Engineering.
 - **Objective:** Leveraging AI models to build smarter, scalable software solutions.
 
-  ## 🎨 Creative & Media Expertise
-- **Diploma in Media Arts** from **Sathyam Academy** (2017 - 2019).
-- **Video Editing:** Expert in **Adobe Premiere Pro**, After Effects, and Final Cut Pro.
-- **Graphic Design:** Proficient in **Adobe Photoshop** for creating high-quality digital assets.
-- **Social Media Strategy:** Experienced in platform analytics and content growth across YouTube, FB, Instagram, and X.
-- **Tech Integration: ** Leveraging my media skills to create engaging technical content and intuitive UI/UX designs.
-  ---
-
+## 🎨 Creative & Media Expertise
+- **Media Arts:** Diploma from **Sathyam Academy** (2017 - 2019).
+- **Video Editing:** Expert in **Adobe Premiere Pro**, After Effects, and FCP.
+- **Graphic Design:** Proficient in **Adobe Photoshop** for digital assets.
+- **Social Media:** Experienced in platform growth and content analytics.
+- **Tech Integration:** Merging creative design with intuitive UI/UX solutions.
+- 
 ###  Connect with me:
 [LinkedIn](https://www.linkedin.com/in/vijay-r-a351003a3/) | [Email](mailto:vijayofficial21@gmail.com)
