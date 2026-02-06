@@ -47,6 +47,9 @@ AI Literacy & Emerging Technologies.
 
 * **Higher Secondary (12th)** | Computer Science Stream
   *Early foundation in programming and computer fundamentals.*
+  
+*  **Pantech Prolabs India Pvt Ltd** | Pantech Prolabs India Pvt. Ltd.
+  *AI/ML Course
 
   ## 🤖 AI & Machine Learning (Ongoing Internship)
 - **Internship:** AI Developer at **Pantech Prolabs India Pvt Ltd**.
@@ -61,7 +64,7 @@ AI Literacy & Emerging Technologies.
 - **Video Editing:** Expert in **Adobe Premiere Pro**, After Effects, and Final Cut Pro.
 - **Graphic Design:** Proficient in **Adobe Photoshop** for creating high-quality digital assets.
 - **Social Media Strategy:** Experienced in platform analytics and content growth across YouTube, FB, Instagram, and X.
-- **Tech Integration:** Leveraging my media skills to create engaging technical content and intuitive UI/UX designs.
+- **Tech Integration: ** Leveraging my media skills to create engaging technical content and intuitive UI/UX designs.
   ---
 
 ###  Connect with me:
