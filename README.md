@@ -1,16 +1,18 @@
 ## Hi there 👋
+# 🎓 Java Concurrency Expert | Upskilled at Scaler
 
-<!--
-**vijayofficial100/vijayofficial100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m on a mission to build high-performance, scalable systems. Recently, I mastered the complexities of **Java Concurrency & Multithreading**.
 
-Here are some ideas to get you started:
+### 📜 Certification
+**Master Java Concurrency & Multithreading** Awarded by **Scaler** on 5th February 2026.  
+[![Verify Certificate](https://img.shields.io/badge/Verify-Credential-blue?style=for-the-badge&logo=java)](https://moonshot.scaler.com/s/sl/ouqqgznZI9)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📝 Learning Highlights (Class Notes)
+![Multithreading Journey](notes.gif)
+
+---
+
+### 🚀 Technical Skills Applied:
+* **High-Concurrency-Banking-System:** Applied multithreading logic to handle multiple real-time transactions.
+* **ExecutorService:** Optimized thread management for better resource utilization.
+* **Deadlock Prevention:** Implementing safe synchronization techniques.
