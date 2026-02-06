@@ -38,13 +38,16 @@ AI Literacy & Emerging Technologies.
 ## 🎓 Education
 
 * **MCA (Master of Computer Applications)** | Starting Soon (2026)
-  *Focusing on Advanced Computing and Software Engineering.*
+  *Focusing on Advanced Computing, Backend Architecture, and Software Engineering.*
 
 * **B.Sc., LL.B** | Vels University, Chennai (2023)
-  *Developed strong analytical and logical reasoning skills.*
+  *Specialized in Analytical Thinking and Logical Reasoning—skills directly applicable to complex Debugging and System Design.*
 
-* **Full Stack Development (MERN Stack)** | NoviTech R&D Pvt. Ltd. (Expected Feb 2026)
----
+* **Full Stack Development (MERN Stack)** | NoviTech R&D Pvt. Ltd. (Completed: Feb 2026)
+
+* **Higher Secondary (12th)** | Computer Science Stream
+  *Early foundation in programming and computer fundamentals.*
+  ---
 
 ###  Connect with me:
 [LinkedIn](https://www.linkedin.com/in/vijay-r-a351003a3/) | [Email](mailto:vijayofficial21@gmail.com)
