@@ -36,8 +36,13 @@ AI Literacy & Emerging Technologies.
 ---
 
 ## 🎓 Education
-* **MCA (Master of Computer Applications)** |(Pursuing / Starting Soon)
+
+* **MCA (Master of Computer Applications)** | Starting Soon (2026)
+  *Focusing on Advanced Computing and Software Engineering.*
+
 * **B.Sc., LL.B** | Vels University, Chennai (2023)
+  *Developed strong analytical and logical reasoning skills.*
+
 * **Full Stack Development (MERN Stack)** | NoviTech R&D Pvt. Ltd. (Expected Feb 2026)
 ---
 
