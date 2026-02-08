@@ -25,6 +25,11 @@ Mastered the complexities of high-performance, scalable systems.
 AI Literacy & Emerging Technologies.
 [![Verify AI](https://img.shields.io/badge/Verify-AI_Credential-green?style=for-the-badge&logo=openai)](https://www.futureskillsprime.in/iDH/user/credential/view/32914-6b5f27c0-fdba-11f0-bdec-005056b48b54)
 
+### Anthropic Claude Code in Action** – Anthropic Academy Feb 2026*
+  Hands-on experience with AI-assisted development, Claude Code workflows, and tool-based automation.  
+  [View Certificate](https://verify.skilljar.com/c/yfpqh4gtx4ej)
+
+
 ---
 
 ##  Featured Projects
@@ -41,6 +46,11 @@ AI Literacy & Emerging Technologies.
   *Focusing on Advanced Computing, Backend Architecture, and Software Engineering.*
 
 * **Full Stack Development (MERN Stack)** | NoviTech R&D Pvt. Ltd. (Completed: Feb 2026)
+
+* **Anthropic Claude Code in Action** – Anthropic Academy  
+  *Issued Feb 2026*  
+  Hands-on experience with AI-assisted development, Claude Code workflows, and tool-based automation.  
+  [View Certificate](https://verify.skilljar.com/c/yfpqh4gtx4ej)
 
 * **B.Sc., LL.B** | Vels University, Chennai (2023)
   *Specialized in Analytical Thinking and Logical Reasoning—skills directly applicable to complex Debugging and System Design.*
