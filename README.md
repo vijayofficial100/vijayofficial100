@@ -14,6 +14,10 @@
 
 ## 📜 Certifications
 
+### Software Engineering Virtual Experience | JPMorgan Chase & Co. (Forage)
+Hands-on backend development experience including Kafka integration, REST APIs, Spring Data JPA, and H2 database implementation.
+[View Certificate – Software Engineering Virtual Experience (Forage)](https://www.theforage.com/completion-certificates/Sj7temL583QAYpHXD/E6McHJDKsQYh79moz_Sj7temL583QAYpHXD_69889fa3af3779e86380f9fd_1770702949859_completion_certificate.pdf)
+
 ###  Java Concurrency Expert | Scaler
 Mastered the complexities of high-performance, scalable systems.
 [![Verify Java](https://img.shields.io/badge/Verify-Java_Credential-blue?style=for-the-badge&logo=java)](https://moonshot.scaler.com/s/s1/ouqqgznZI9)
