@@ -87,7 +87,10 @@ Focus: Advanced Computing, Backend Architecture, Software Engineering
 📅 Feb 2026 – May 2026  
 - Focused on Python, Deep Learning, Neural Networks, and Prompt Engineering  
 - Built intelligent and scalable AI-based solutions  
-- Worked on real-world problem solving and model development  
+- Worked on real-world problem solving and model development
+  ### 📜 AI Developer Internship Certificate
+
+![AI Certificate](https://github.com/vijayofficial100/vijayofficial100/raw/main/AI%20Development%20Intern.jpg)
 
 ---
 
