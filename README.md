@@ -81,11 +81,26 @@ Focus: Advanced Computing, Backend Architecture, Software Engineering
 
 ---
 
-## 🤖 Internship
+## 🤖 Internship Experience
 
-**AI Developer Intern | Pantech Prolabs (Pantech.ai)** | Feb 2026 – May 2026  
-- Focus: Python, Deep Learning, Neural Networks, Prompt Engineering  
-- Objective: Leverage AI for smarter, scalable software solutions
+### 🔹 AI Developer Intern | Pantech Prolabs (Pantech.ai)  
+📅 Feb 2026 – May 2026  
+- Focused on Python, Deep Learning, Neural Networks, and Prompt Engineering  
+- Built intelligent and scalable AI-based solutions  
+- Worked on real-world problem solving and model development  
+
+---
+
+### 🔹 MERN Stack Developer Intern | NoviTech R&D Private Limited  
+📅 Jan 2026 – Apr 2026  
+- Worked with MongoDB, Express.js, React.js, and Node.js  
+- Built real-time full-stack web applications  
+- Developed RESTful APIs and handled backend logic  
+- Integrated frontend UI with backend services and databases  
+- Improved debugging, performance optimization, and development workflow  
+
+📜 **Certificate:**  
+🔗 [View Certificate](https://drive.google.com/file/d/1P0aJVYQ84hvvUya3Cqit3JsVDhRpYvMN/preview)
 
 ---
 
