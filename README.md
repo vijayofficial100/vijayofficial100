@@ -1,7 +1,7 @@
 # Hi there 👋 I'm VIJAY R
 
 Backend-focused Full Stack Developer | Java (Spring Boot) | REST APIs | MySQL  
-Open to Backend / Full Stack opportunities
+Open to Backend | Full Stack opportunities | AI Developer
 
 ---
 
